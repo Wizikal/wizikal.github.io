@@ -1,1 +1,1 @@
-Flip Bot v1.0
+Personal website.
