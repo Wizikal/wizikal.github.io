@@ -1,9 +1,35 @@
+.app {
+  font-family: 'Quicksand', sans-serif;
+}
+
 .title {
   margin-top: 15px;
 }
 
 .heading {
   text-align: center;
+}
+
+.button {
+  text-align: center;
+}
+
+.fix {
+  margin-right: 10px;
+  background-color: #e7e7e7;
+  text-decoration: none;
+  border: none;
+  font-size: 16px;
+  padding: 6px 25px;
+}
+
+.auc {
+  margin-left: 10px;
+  background-color: #e7e7e7;
+  text-decoration: none;
+  border: none;
+  font-size: 16px;
+  padding: 6px 25px;
 }
 
 .listings {
